@@ -2,7 +2,7 @@ x = "I am Git"
 y = 'I am GitHub'
 
 def log():
-    print('I was Logged in Successful')
+    print('I was login was Successful')
 
 def emps_details(a, b):
     print(f'{a + "\n" + b}')
