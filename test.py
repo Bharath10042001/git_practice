@@ -1,8 +1,9 @@
-from app import x, y
+from app import x, y, emps_details
 
-a = "I am Ravi Model"
-b = 'I am Gopi The Fire!'
+a = "I am Ravi Model!"
+b = 'I am Sai'
 
-print(f'{x + "\n" + a}')
-print()
-print(f'{y + "\n" + b}')
+if __name__ == '__main__':
+    emps_details(x, a)
+    print()
+    emps_details(y, b)
