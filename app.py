@@ -1,5 +1,4 @@
 x = "I am Git"
-
 y = 'I am GitHub'
 
 if __name__ == '__main__':
