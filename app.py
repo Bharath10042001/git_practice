@@ -1,6 +1,11 @@
 x = "I am Git"
 y = 'I am GitHub'
 
+n = 5
+m = 6
+print(n * m)
+
+
 def log(i):
     print(i + '\n'+ 'I was Successfully logged into GitHub')
 
